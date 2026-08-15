@@ -1,0 +1,34 @@
+{
+  "video_id": "ai-engineering-demo",
+  "title": "AI Engineering Discussion",
+  "segments": [
+    {
+      "id": "seg_001",
+      "start": 0,
+      "end": 30,
+      "speaker": "Alice",
+      "text": "Today we're discussing artificial intelligence and OpenAI."
+    },
+    {
+      "id": "seg_002",
+      "start": 30,
+      "end": 60,
+      "speaker": "Bob",
+      "text": "The company is based in San Francisco and develops GPT models."
+    },
+    {
+      "id": "seg_003",
+      "start": 60,
+      "end": 90,
+      "speaker": "Alice",
+      "text": "We will also discuss data engineering and Databricks."
+    },
+    {
+      "id": "seg_004",
+      "start": 90,
+      "end": 120,
+      "speaker": "Bob",
+      "text": "Cloud platforms make it easier to deploy machine learning systems."
+    }
+  ]
+}
